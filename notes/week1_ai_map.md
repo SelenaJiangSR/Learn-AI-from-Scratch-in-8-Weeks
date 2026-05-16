@@ -1,5 +1,6 @@
 # Week 1 AI Map
-![AI Core Concepts Map](../28D60214-D033-4AB9-AAC5-256ECFD3FDEE.png)
+
+![AI Core Concepts Map](../images/week1-ai-core-concepts-map.png)
 ## 1. Artificial Intelligence (AI)
 
 **Full Name:** Artificial Intelligence
