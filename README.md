@@ -41,6 +41,33 @@ This repository will gradually include:
 
 Right now, my goal is to build a clear understanding of the AI foundation before moving into deeper technical topics.
 
+## Week 1 Roadmap
+
+Week 1 is about building a basic understanding of AI concepts and getting first exposure to simple data tools.
+
+### Part A — AI Core Concepts
+Learn the basic concept map of AI, including AI, Machine Learning, Deep Learning, LLM, and AI Agent.
+
+### Part B — Training vs Inference
+Understand the difference between model training and inference, and learn why training is more resource-intensive.
+
+### Part C — Why My Current Major Matters for AI
+Connect AI with my current background in data science, math, and foundational technical skills.
+
+### Part D — Python Data Tools
+Get familiar with NumPy, Pandas, and Matplotlib, and understand their basic roles in AI and data work.
+
+### Part E — First Small Notebook Practice
+Read a CSV file with Python and explore its basic structure using common Pandas functions.
+
+### Part F — Basic Data Exploration
+Make simple observations about a dataset, identify important columns, and check basic statistics and missing values.
+
+### Part G — First Two Simple Charts
+Create two beginner-level charts such as a histogram and a scatter plot or bar chart, and explain what they show.
+
+### Part H — Week 1 Summary
+Write a short summary of what I learned, what I understand now, what is still unclear, and what I should focus on in Week 2.
 ## Progress Status
 
 - [x] Week 1 Part A completed
