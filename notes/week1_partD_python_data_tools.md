@@ -9,17 +9,6 @@ Example:
 - performing mathematical operations on arrays
 - calculating averages or sums
 
-Basic usage:
-```python
-import numpy as np
-
-arr = np.array([1, 2, 3, 4])
-print(arr)
-print(arr + 10)
-print(arr * 2)
-print(np.mean(arr))
-print(np.sum(arr))
-
 ---
 
 ## Pandas
@@ -63,3 +52,15 @@ Example workflow:
 
 My understanding:
 NumPy handles numbers, Pandas handles tables, and Matplotlib helps visualize the results.
+
+Basic usage:
+```python
+import numpy as np
+
+arr = np.array([1, 2, 3, 4])
+print(arr)
+print(arr + 10)
+print(arr * 2)
+print(np.mean(arr))
+print(np.sum(arr))
+
