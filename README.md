@@ -20,7 +20,7 @@ In Part A, I learned the basic AI concept map, including:
 - AI Agent
 
 ### Files
-- `notes/week1_partA_ai_core_concepts.md`
+- `notes/week1_partA.md`
 
 ### Mind Map
 ![Week 1 Part A AI Core Concepts Map](week1-ai-core-concepts-map.jpeg)
