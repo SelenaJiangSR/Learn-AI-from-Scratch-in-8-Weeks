@@ -70,3 +70,6 @@ In my dataset:
 - the dataset had 5 rows and 3 columns
 - `name` was text, while `age` and `score` were numeric
 - there were no missing values
+
+##Python Output
+![Part E Output](../PartE_output.png)
