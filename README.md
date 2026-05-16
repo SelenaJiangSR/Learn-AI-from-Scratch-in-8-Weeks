@@ -23,7 +23,7 @@ In Part A, I learned the basic AI concept map, including:
 - `notes/week1_partA_ai_core_concepts.md`
 
 ### Mind Map
-![Week 1 Part A AI Core Concepts Map](week1_partA_ai_core_concepts_map.jpeg)
+![Week 1 Part A AI Core Concepts Map](week1-ai-core-concepts-map.jpeg)
 
 ## Learning Focus
 
