@@ -51,8 +51,8 @@ Alice,20,85
 Bob,21,90
 Cindy,19,88
 David,22,76
-Emma,20,95```
-
+Emma,20,95
+```
 ## My Practice Result
 
 I successfully created a small CSV file called `students.csv` and read it using Pandas.
