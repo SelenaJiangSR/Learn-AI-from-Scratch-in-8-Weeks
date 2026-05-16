@@ -52,3 +52,21 @@ Bob,21,90
 Cindy,19,88
 David,22,76
 Emma,20,95
+
+## My Practice Result
+
+I successfully created a small CSV file called `students.csv` and read it using Pandas.
+
+From this practice, I learned that:
+
+- `df.head()` shows the first few rows of the dataset
+- `df.columns` shows the column names
+- `df.shape` shows the number of rows and columns
+- `df.info()` shows data types and missing-value information
+- `df.describe()` shows summary statistics for numeric columns
+
+In my dataset:
+- the columns were `name`, `age`, and `score`
+- the dataset had 5 rows and 3 columns
+- `name` was text, while `age` and `score` were numeric
+- there were no missing values
