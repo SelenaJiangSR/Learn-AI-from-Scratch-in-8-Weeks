@@ -1,4 +1,9 @@
 # Week 1 AI Map
+# Week 1 AI Map
+
+![AI Core Concepts Map](../28D60214-D033-4AB9-AAC5-256ECFD3FDEE.png)
+
+## 1. Artificial Intelligence (AI)
 
 ## 1. Artificial Intelligence (AI)
 
