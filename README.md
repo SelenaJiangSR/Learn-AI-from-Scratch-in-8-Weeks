@@ -13,4 +13,4 @@ In Part A, I learned the basic AI concept map, including:
 - `images/week1-ai-core-concepts-map.png`
 
 ## Mind Map
-![AI Core Concepts Map](images/week1-ai-core-concepts-map.png)
+![AI Core Concepts Map](week1-ai-core-concepts-map.jpeg)
