@@ -40,10 +40,10 @@ Write a short summary of what I learned, what I understand now, what is still un
 ## Progress Status
 
 - [x] Week 1 Part A completed
-- [ ] Week 1 Part B
-- [ ] Week 1 Part C
-- [ ] Week 1 Part D
-- [ ] Week 1 Part E
+- [x] Week 1 Part B
+- [x] Week 1 Part C
+- [x] Week 1 Part D
+- [x] Week 1 Part E
 - [ ] Week 1 Part F
 - [ ] Week 1 Part G
 - [ ] Week 1 Part H
