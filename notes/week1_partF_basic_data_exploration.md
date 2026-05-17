@@ -123,3 +123,14 @@ print(df["score"].isnull().sum())
 
 print("\nScore statistics:")
 print(df["score"].describe())```
+
+## My Practice Result
+
+From this practice, I found that:
+
+- the dataset has 5 rows and 3 columns
+- the columns are `name`, `age`, and `score`
+- the `score` column has no missing values
+- the average score is 86.8
+- the minimum score is 76
+- the maximum score is 95
