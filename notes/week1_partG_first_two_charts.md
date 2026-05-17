@@ -124,7 +124,7 @@ This chart used the score column.
 
 - x-axis = score values
 - y-axis = frequency
-
+![Part G Histogram Chart](partG_histogram_chart.png)
 ### What the chart shows
 
 The histogram shows how the score values are distributed in the dataset.
@@ -142,80 +142,12 @@ This chart used:
 
 - x-axis = student names
 - y-axis = scores
-
+![Part G Bar Chart](partG_bar_chart.png)
 ### What the chart shows
 
 The bar chart makes it easy to compare the scores of different students.
 
 From this chart, I can quickly see which student has the highest score and which student has the lowest score.
-
----
-
-# What I Understand Now
-
-From this part, I understand that charts are a useful way to explore and communicate data.
-
-I also understand that:
-
-- a histogram is useful for showing the distribution of one numeric variable
-- a bar chart is useful for comparing values across categories
-- labels and titles are important because they make charts easier to understand
-
-This part helped me connect Python code with visual output.
-
----
-
-# Reflection
-
-This part was my first experience turning a dataset into charts.
-
-Before this, I was only looking at data in rows, columns, and summary statistics.
-
-Now I can also look at data visually.
-
-Even though the dataset is very small, this part helped me build the habit of explaining charts clearly:
-
-- what is on the x-axis
-- what is on the y-axis
-- what the chart is showing
-
-I think this is an important beginner skill for future data analysis and AI-related work.
-
----
-
-# Files Created in This Part
-
-```text
-students.csv
-partG_first_two_charts.py
-notes/week1_partG_first_two_charts.md
-```
-
----
-
-# Today's Workflow
-
-1. Create a Python file:
-
-```text
-partG_first_two_charts.py
-```
-
-2. Copy the Full Code Example into the file
-
-3. Run the Python script
-
-4. View the two charts
-
-5. Take screenshots of both charts
-
-6. Upload the screenshots to GitHub
-
-7. Paste this markdown note into:
-
-```text
-notes/week1_partG_first_two_charts.md
-```
 
 ---
 
@@ -233,19 +165,3 @@ notes/week1_partG_first_two_charts.md
 | DataFrame | A table-like data structure in Pandas |
 
 ---
-
-# Final Reflection
-
-This was my first step into data visualization using Python.
-
-I learned how to:
-
-- read a dataset
-- create charts
-- label axes and titles
-- explain visual output
-- connect data with visual understanding
-
-This part helped me understand that visualization is one of the core skills in data analysis and AI.
-
-Even simple charts can help reveal useful information from data.
