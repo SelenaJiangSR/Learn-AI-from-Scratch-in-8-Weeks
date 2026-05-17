@@ -1,0 +1,70 @@
+# Week 1 Part F — Basic Data Exploration
+
+## What I Learned in This Part
+
+In this part, I started doing basic exploration on a small dataset after successfully reading it with Pandas.
+
+My goal was to answer simple questions such as:
+
+- what the dataset is about
+- what fields it contains
+- which fields seem important
+- whether there are missing values
+- what one numeric column looks like statistically
+
+This part helped me move from simply loading a dataset to actually beginning to understand it.
+
+---
+
+## What This Dataset Is About
+
+This is a simple student dataset.
+
+It contains basic information about students, including:
+
+- name
+- age
+- score
+
+My understanding:
+This dataset is small, but it is useful for beginner practice because it is easy to inspect and understand.
+
+---
+
+## Fields in the Dataset
+
+The dataset contains three columns:
+
+- `name`
+- `age`
+- `score`
+
+### What each field means
+
+- `name` = the student's name
+- `age` = the student's age
+- `score` = the student's score
+
+---
+
+## Which Fields Seem More Important?
+
+In this small dataset, the most important fields for exploration are:
+
+- `age`
+- `score`
+
+These two columns are numeric, so they are more useful for statistics and charts.
+
+The `name` column is still useful, but it mainly works as an identifier rather than a numeric feature for analysis.
+
+---
+
+## Step-by-Step Practice
+
+### Step 1 — Read the dataset
+
+```python
+import pandas as pd
+
+df = pd.read_csv("students.csv")
