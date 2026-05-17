@@ -62,7 +62,7 @@ The `name` column is still useful, but it mainly works as an identifier rather t
 
 ## Step-by-Step Practice
 
-###Step 1 — Read the dataset
+Step 1 — Read the dataset
 
 ```python 
 import pandas as pd
@@ -76,35 +76,35 @@ This shows the first few rows of the dataset.
 What this step taught me:
 Looking at the first few rows helps me quickly understand what the data looks like.
 
-###Step 3 — Check the columns
+Step 3 — Check the columns
 ```print(df.columns)```
 This shows the column names.
 
 What this step taught me:
 Checking the columns helps me understand what fields are included in the dataset.
 
-###Step4 — Check the size of the dataset
+Step4 — Check the size of the dataset
 ```print(df.shape)```
 This shows the number of rows and columns.
 
 What this step taught me:
 The shape tells me how large the dataset is.
 
-###Step 5 — Check missing values in one column
+Step 5 — Check missing values in one column
 ```print(df["score"].isnull().sum())```
 This checks how many missing values are in the score column.
 
 What this step taught me:
 Checking missing values is a basic but important step in data exploration.
 
-###Step 6 — Check basic statistics for one numeric column
+Step 6 — Check basic statistics for one numeric column
 ```print(df["score"].describe())```
 This shows summary statistics for the score column.
 
 What this step taught me:
 Numeric columns can be explored using summary statistics such as mean, min, and max.
 
-###Full code:
+Full code:
 ```import pandas as pd
 
 df = pd.read_csv("students.csv")
