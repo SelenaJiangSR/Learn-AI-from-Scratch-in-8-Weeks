@@ -124,7 +124,7 @@ print(df["score"].isnull().sum())
 print("\nScore statistics:")
 print(df["score"].describe())```
 
-## My Practice Result
+My Practice Result
 
 From this practice, I found that:
 
