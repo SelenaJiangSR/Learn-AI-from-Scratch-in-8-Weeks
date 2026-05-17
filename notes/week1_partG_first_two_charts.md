@@ -142,7 +142,7 @@ This chart used:
 
 - x-axis = student names
 - y-axis = scores
-![Part G Bar Chart](partG_bar_chart.png)
+![Bar Chart of Student Scores](partG_bar_chart.png)
 ### What the chart shows
 
 The bar chart makes it easy to compare the scores of different students.
