@@ -68,3 +68,13 @@ The `name` column is still useful, but it mainly works as an identifier rather t
 import pandas as pd
 
 df = pd.read_csv("students.csv")
+```
+###Step 2 — Preview the dataset
+
+```print(df.head())```
+This shows the first few rows of the dataset.
+What this step taught me:
+Looking at the first few rows helps me quickly understand what the data looks like.
+
+###Step 3 — Check the columns
+```print(df.columns)```
