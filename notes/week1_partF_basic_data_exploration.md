@@ -69,7 +69,7 @@ import pandas as pd
 
 df = pd.read_csv("students.csv")
 ```
-###Step 2 — Preview the dataset
+Step 2 — Preview the dataset
 
 ```print(df.head())```
 This shows the first few rows of the dataset.
