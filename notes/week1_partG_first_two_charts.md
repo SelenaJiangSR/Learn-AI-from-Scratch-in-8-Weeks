@@ -124,7 +124,7 @@ This chart used the score column.
 
 - x-axis = score values
 - y-axis = frequency
-![Part G Histogram Chart](partG_histogram.png)
+![Part G Histogram Chart](../partG_histogram.png)
 ### What the chart shows
 
 The histogram shows how the score values are distributed in the dataset.
@@ -142,7 +142,7 @@ This chart used:
 
 - x-axis = student names
 - y-axis = scores
-![Bar Chart of Student Scores](partG_bar_chart.png)
+![Bar Chart of Student Scores](../partG_bar_chart.png)
 ### What the chart shows
 
 The bar chart makes it easy to compare the scores of different students.
