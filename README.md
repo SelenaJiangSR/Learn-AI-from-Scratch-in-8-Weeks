@@ -46,4 +46,4 @@ Write a short summary of what I learned, what I understand now, what is still un
 - [x] Week 1 Part E
 - [x] Week 1 Part F
 - [x] Week 1 Part G
-- [ ] Week 1 Part H
+
