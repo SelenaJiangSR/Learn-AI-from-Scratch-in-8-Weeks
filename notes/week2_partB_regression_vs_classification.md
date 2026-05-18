@@ -29,7 +29,8 @@ Examples:
 Example:
 
 ```text
-study_hours → exam_score
+study_hours → exam_score```
+
 ### 2. Predicting whether a review is positive or negative
 
 Type: Classification
