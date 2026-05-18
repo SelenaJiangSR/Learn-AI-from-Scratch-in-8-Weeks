@@ -39,11 +39,20 @@ Create two beginner-level charts such as a histogram and a scatter plot or bar c
 Write a short summary of what I learned, what I understand now, what is still unclear, and what I should focus on in Week 2.
 ## Progress Status
 
-- [x] Week 1 Part A completed
+- [x] Week 1 Part A
 - [x] Week 1 Part B
 - [x] Week 1 Part C
 - [x] Week 1 Part D
 - [x] Week 1 Part E
 - [x] Week 1 Part F
 - [x] Week 1 Part G
+
+- [x] Week 2 Part A 
+- [x] Week 2 Part B
+- [x] Week 2 Part C
+- [x] Week 2 Part D
+- [x] Week 2 Part E
+- [ ] Week 2 Part F
+- [ ] Week 2 Part G
+- [ ] Week 2 Part H
 
