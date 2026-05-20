@@ -1,0 +1,149 @@
+# Week 2 Part E — First sklearn Model
+
+## What is sklearn?
+
+sklearn (scikit-learn) is a Python library for machine learning.
+
+It helps us:
+
+- train models
+- make predictions
+- evaluate models
+
+---
+
+# Import the Model
+
+```python
+from sklearn.linear_model import LinearRegression
+```
+
+This imports the Linear Regression model from sklearn.
+
+---
+
+# Prepare the Data
+
+```python
+X = [[1], [2], [3], [4], [5]]
+y = [50, 60, 70, 80, 90]
+```
+
+- `X` = features / inputs
+- `y` = labels / targets
+
+---
+
+# Important Understanding
+
+`X` uses double brackets because sklearn expects a 2D structure.
+
+Example:
+
+```python
+[
+ [1],
+ [2],
+ [3]
+]
+```
+
+---
+
+# Create the Model
+
+```python
+model = LinearRegression()
+```
+
+This creates the machine learning model.
+
+The model has not learned anything yet.
+
+---
+
+# Train the Model
+
+```python
+model.fit(X, y)
+```
+
+This is the learning step.
+
+The model learns the relationship between:
+
+- study hours
+- exam scores
+
+---
+
+# Make Predictions
+
+```python
+prediction = model.predict([[6]])
+```
+
+Meaning:
+
+"If a student studies for 6 hours, what score should we expect?"
+
+Possible output:
+
+```python
+array([100.])
+```
+
+---
+
+# Full Code Example
+
+```python
+from sklearn.linear_model import LinearRegression
+
+X = [[1], [2], [3], [4], [5]]
+y = [50, 60, 70, 80, 90]
+
+model = LinearRegression()
+
+model.fit(X, y)
+
+prediction = model.predict([[6]])
+
+print(prediction)
+```
+
+---
+
+# Key Summary
+
+| Step | Meaning |
+|---|---|
+| Import model | 导入模型 |
+| Create model | 创建模型 |
+| fit() | 训练模型 |
+| predict() | 做预测 |
+| X | 输入特征 |
+| y | 标签 |
+
+---
+
+# My Understanding
+
+Using sklearn, we can build machine learning models with only a few lines of code.
+
+The workflow is:
+
+1. prepare data
+2. create model
+3. fit model
+4. predict new values
+
+The model learns patterns from training data and uses those patterns to make predictions.
+
+---
+
+# Files
+
+```text
+notes/week2_partE_first_sklearn_model.md
+```
