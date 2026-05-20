@@ -52,7 +52,7 @@ Write a short summary of what I learned, what I understand now, what is still un
 - [x] Week 2 Part C
 - [x] Week 2 Part D
 - [x] Week 2 Part E
-- [ ] Week 2 Part F
-- [ ] Week 2 Part G
-- [ ] Week 2 Part H
+- [x] Week 2 Part F
+- [x] Week 2 Part G
+- [x] Week 2 Part H
 
